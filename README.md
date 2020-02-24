@@ -1,0 +1,1 @@
+# azure-cosmosdb-mongodb-template
